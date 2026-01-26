@@ -1,0 +1,1 @@
+rootProject.name = "HR-Generator-patcher2.0"
